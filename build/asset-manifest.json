@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.87b1cadc.chunk.css",
-  "main.js": "/static/js/main.2c5df680.chunk.js",
-  "main.js.map": "/static/js/main.2c5df680.chunk.js.map",
-  "static/js/1.d4e7f26f.chunk.js": "/static/js/1.d4e7f26f.chunk.js",
-  "static/js/1.d4e7f26f.chunk.js.map": "/static/js/1.d4e7f26f.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.87b1cadc.chunk.css.map": "/static/css/main.87b1cadc.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.d1b2b1016d8019eb62f4b202bda49b29.js": "/precache-manifest.d1b2b1016d8019eb62f4b202bda49b29.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/beatrockers/build/static/css/main.87b1cadc.chunk.css",
+  "main.js": "/beatrockers/build/static/js/main.1d0fb926.chunk.js",
+  "main.js.map": "/beatrockers/build/static/js/main.1d0fb926.chunk.js.map",
+  "static/js/1.fa21d809.chunk.js": "/beatrockers/build/static/js/1.fa21d809.chunk.js",
+  "static/js/1.fa21d809.chunk.js.map": "/beatrockers/build/static/js/1.fa21d809.chunk.js.map",
+  "runtime~main.js": "/beatrockers/build/static/js/runtime~main.64f26b69.js",
+  "runtime~main.js.map": "/beatrockers/build/static/js/runtime~main.64f26b69.js.map",
+  "static/css/main.87b1cadc.chunk.css.map": "/beatrockers/build/static/css/main.87b1cadc.chunk.css.map",
+  "index.html": "/beatrockers/build/index.html",
+  "precache-manifest.273dde259dab95a4abd69fd821f301b6.js": "/beatrockers/build/precache-manifest.273dde259dab95a4abd69fd821f301b6.js",
+  "service-worker.js": "/beatrockers/build/service-worker.js"
 }
