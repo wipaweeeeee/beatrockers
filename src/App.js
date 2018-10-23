@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Record from './components/record.js';
+import Wrapper from './components/wrapper.js';
 
 class App extends Component {
   render() {
@@ -9,7 +9,7 @@ class App extends Component {
         <p>
           <code>beat rockers aww yea</code>
         </p>
-        <Record />
+       <Wrapper />
       </div>
     );
   }
